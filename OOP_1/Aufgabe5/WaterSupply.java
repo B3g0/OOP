@@ -1,0 +1,3 @@
+class WaterSupply implements Supply {
+
+}

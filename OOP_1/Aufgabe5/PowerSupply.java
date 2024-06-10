@@ -1,0 +1,3 @@
+class PowerSupply implements Supply {
+    
+}
